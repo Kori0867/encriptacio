@@ -107,7 +107,7 @@ export function EncryptionDemo() {
       <Card className="w-full max-w-3xl">
         <CardHeader>
           <CardTitle>Encryption </CardTitle>
-          <CardDescription> (AES) encryption  (RSA) </CardDescription>
+          <CardDescription> (AES) encryptions  (RSA) </CardDescription>
         </CardHeader>
         <CardContent>
           {!isAuthenticated ? (
